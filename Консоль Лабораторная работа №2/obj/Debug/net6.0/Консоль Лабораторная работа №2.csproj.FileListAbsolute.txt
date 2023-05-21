@@ -1,0 +1,18 @@
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\bin\Debug\net6.0\Консоль Лабораторная работа №2.exe
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\bin\Debug\net6.0\Консоль Лабораторная работа №2.deps.json
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\bin\Debug\net6.0\Консоль Лабораторная работа №2.runtimeconfig.json
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\bin\Debug\net6.0\Консоль Лабораторная работа №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\bin\Debug\net6.0\Консоль Лабораторная работа №2.pdb
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.csproj.AssemblyReference.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.AssemblyInfoInputs.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.AssemblyInfo.cs
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.csproj.CoreCompileInputs.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\refint\Консоль Лабораторная работа №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.pdb
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.genruntimeconfig.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\ref\Консоль Лабораторная работа №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\refint\Консоль Лабораторная работа №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Лабораторная работа №2\Консоль Лабораторная работа №2\obj\Debug\net6.0\Консоль Лабораторная работа №2.pdb
